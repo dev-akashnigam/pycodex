@@ -1,0 +1,1 @@
+# Strict equality operator === is not supported by Python.
