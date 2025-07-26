@@ -1,15 +1,15 @@
 print("Please enter principal amount : ")
-principalAmt = int(input())
+principal_amt = int(input())
 
 print("Please enter rate of interest : ")
 rate = float(input())
 
 print("Please enter time period : ")
-timePeriod = float(input())
+time_period = float(input())
 
-simpleInterest = (principalAmt * rate * timePeriod)/100
+simple_interest = (principal_amt * rate * time_period)/100
 
-print(f"Simple interest earned on investment of amount {principalAmt} at {rate}% for {timePeriod} years is: {simpleInterest}")
+print(f"Simple interest earned on investment of amount {principal_amt} at {rate}% for {time_period} years is: {simple_interest}")
 
 
 

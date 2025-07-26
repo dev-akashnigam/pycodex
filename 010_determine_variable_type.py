@@ -1,16 +1,16 @@
 namee = "Akash Nigam"
-naturalNo = 10
-decimalNo = 15.36
+natural_no = 10
+decimal_no = 15.36
 boolean_value = True
 ch = 'A'
 
 namee_datatype = type(namee)
 print(f"Data type of var: name is : {namee_datatype}")
 
-naturalNo_datatype = type(naturalNo)
+naturalNo_datatype = type(natural_no)
 print(f"Data type of var: naturalNo is : {naturalNo_datatype}")
 
-decimalNo_datatype = type(decimalNo)
+decimalNo_datatype = type(decimal_no)
 print(f"Data type of var: decimalNo is : {decimalNo_datatype}")
 
 boolean_value_datatype = type(boolean_value)
