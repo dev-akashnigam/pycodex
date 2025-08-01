@@ -1,7 +1,7 @@
 import sys
 
-maxRealNo = sys.maxsize
-minRealNo = -sys.maxsize-1
+MAX_REAL_NO = sys.maxsize
+MIN_REAL_NO = -sys.maxsize-1
 
-print(f"Max real number supported by Python = {maxRealNo}")
-print(f"Min real number supported by Python = {minRealNo}")
+print(f"Max real number supported by Python = {MAX_REAL_NO}")
+print(f"Min real number supported by Python = {MIN_REAL_NO}")
