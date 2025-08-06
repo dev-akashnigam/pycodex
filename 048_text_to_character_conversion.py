@@ -1,6 +1,6 @@
 print("Please enter a character : ")
-stringInput = input()
+STRING_INPUT = input()
 
-ch = stringInput[0]
+CH = STRING_INPUT[0]
 
-print(f'Character corresponding to the string input "{stringInput}" = {ch}')
+print(f'Character corresponding to the string input "{STRING_INPUT}" = {CH}')

@@ -1,5 +1,5 @@
 print("Please enter a digit from 0-9 : ")
-digit = int(input())
+DIGIT = int(input())
 
-ch = str(digit)
-print(f"Character corresponding to digit {digit} = '{ch}'")
+CH = str(DIGIT)
+print(f"Character corresponding to digit {DIGIT} = '{CH}'")

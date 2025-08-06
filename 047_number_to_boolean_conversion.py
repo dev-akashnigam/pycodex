@@ -1,5 +1,5 @@
 print("Please enter a number : ")
-num = int(input())
+NUM = int(input())
 
-bool_value = bool(num)
-print(f"Boolean value corresponding to the number: {num} = {bool_value}")
+BOOL_VALUE = bool(NUM)
+print(f"Boolean value corresponding to the number: {NUM} = {BOOL_VALUE}")
